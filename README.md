@@ -21,11 +21,13 @@ Add dataset and install required packages
 
 Located and tested dataset
 Installed dependencies: os, shutil, random, numpy, pandas, cv2, skimage, matplotlib, seaborn
-Verified dataset execution with initial scripts
+Verified dataset execution with initial scripts.
+
 23/09/2025 add dataset loading functionality
 
 Implemented dataset loading in project
 Prepared for preprocessing and further analysis.
 
 27/09/2025 - Initialization Of  Flask Application and Directory Structure.
+
 
